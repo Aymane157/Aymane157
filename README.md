@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Aymane Eddamane</h1>
-<h3 align="center">💻 Software Engineering Student | DevOps & AI Enthusiast</h3>
+<h1 align="center">
+Hi 👋, I'm Aymane Eddamane
+</h1>
+
+<h3 align="center">
+💻 Software Engineering Student | DevOps & AI Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;DevOps+Enthusiast;AI+Explorer;Building+Scalable+Systems"/>
+</p>
+
+---
 
 <p align="center">
   <a href="https://portfolio-nu-liart-22.vercel.app/">
@@ -13,7 +24,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🔭 Currently working on **Codeposter**
 - 🌱 Learning **Spring Boot, Spring Security, Web Exploitation**
@@ -25,21 +36,25 @@
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Programming
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
 </p>
 
 ### 🌐 Web Development
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,html,css,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 </p>
 
 ### ⚙️ DevOps & Tools
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=docker,jenkins,nginx,aws,kafka,postman,firebase" />
 </p>
@@ -62,8 +77,20 @@
 
 ---
 
+# 🐍 Contribution Snake
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
+---
 
+# ⚡ Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aymane157&theme=tokyo-night"/>
+</p>
+
+---
 
 ⭐️ From **Aymane Eddamane**
